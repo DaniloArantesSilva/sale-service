@@ -1,0 +1,10 @@
+com/arantes/sale/application/ports/out/SaveSaleOutputPort.class
+com/arantes/sale/application/core/domain/enums/SaleStatus.class
+com/arantes/sale/adapters/out/repository/SaleRepository.class
+com/arantes/sale/adapters/out/SaveSaleAdapter.class
+com/arantes/sale/application/ports/out/SendCreatedSaleOutputPort.class
+com/arantes/sale/application/core/domain/enums/SaleEvent.class
+com/arantes/sale/adapters/out/repository/entity/SaleEntity.class
+com/arantes/sale/application/core/usecase/CreateSaleUseCase.class
+com/arantes/sale/SaleServiceApplication.class
+com/arantes/sale/application/core/domain/Sale.class
